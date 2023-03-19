@@ -1,0 +1,56 @@
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\Pages\PLogin.g.cs
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\Pages\PStatusOfPass.g.cs
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\App.g.cs
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal_Content.g.cs
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal_MarkupCompile.cache
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal_MarkupCompile.lref
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\GeneralDepartmentTerminal.exe.config
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\GeneralDepartmentTerminal.exe
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\GeneralDepartmentTerminal.pdb
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\MainWindow.baml
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\Pages\PLogin.baml
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\Pages\PStatusOfPass.baml
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.g.resources
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.Properties.Resources.resources
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.csproj.CopyComplete
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.exe
+C:\Users\Asus\source\repos\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\GeneralDepartmentTerminal.exe.config
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\GeneralDepartmentTerminal.exe
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\GeneralDepartmentTerminal.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\EntityFramework.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\EntityFramework.xml
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\AppWindows\EditStatusWindow.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\Pages\PLogin.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\Pages\PStatusOfPass.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\App.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal_Content.g.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal_MarkupCompile.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal_MarkupCompile.lref
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\MainWindow.baml
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\Pages\PLogin.baml
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\Pages\PStatusOfPass.baml
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\AppWindows\EditStatusWindow.baml
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.g.resources
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.exe
+C:\Users\Asus\OneDrive\Рабочий стол\Guardian\GeneralDepartmentTerminal\GeneralDepartmentTerminal\obj\Debug\GeneralDepartmentTerminal.pdb

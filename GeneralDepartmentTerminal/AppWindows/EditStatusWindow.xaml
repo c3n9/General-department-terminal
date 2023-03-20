@@ -25,7 +25,8 @@
             <TextBlock Text="Примечание"/>
             <TextBlock Text="{Binding Description}"/>
             <TextBlock Text="День рождения"/>
-            <DatePicker SelectedDate="{Binding BirthDate}"/>
+            <DatePicker SelectedDate="{Binding BirthDate}"
+                        IsEnabled="False"/>
             <TextBlock Text="Серия и номер паспорта"/>
             <TextBlock Text="{Binding Passport}"/>
             <TextBlock Text="Фото"/>
@@ -34,9 +35,11 @@
                    Height="150"
                    HorizontalAlignment="Left"/>
             <TextBlock Text="Начало действия пропуска"/>
-            <DatePicker SelectedDate="{Binding DateStart}"/>
+            <DatePicker SelectedDate="{Binding DateStart}"
+                        x:Name="DPDateStart"/>
             <TextBlock Text="Конец действия пропуска"/>
-            <DatePicker SelectedDate="{Binding DateEnd}"/>
+            <DatePicker SelectedDate="{Binding DateEnd}"
+                        x:Name="DPDateEnd"/>
             <TextBlock Text="Цель визита"/>
             <TextBlock Text="{Binding VisitPurpose}"/>
             <TextBlock Text="Статус пропуска"/>

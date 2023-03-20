@@ -27,11 +27,23 @@ namespace GeneralDepartmentTerminal.AppWindows
             contextGuest = passGuest;
             DataContext = contextGuest;
             CBStatus.ItemsSource = App.DB.PassStatus.ToList();
+            if (passGuest.User.BlackList == true)
+            {
+                MessageBox.Show("Пользователь в черном списке");
+                CBStatus.SelectedIndex = 2;
+                contextGuest.PassStatus = CBStatus.SelectedItem as PassStatus;
+                App.DB.SaveChanges();
+                CBStatus.IsEnabled = false;
+                DPDateEnd.IsEnabled = false;
+                DPDateStart.IsEnabled = false;
+            }
         }
 
         private void BSave_Click(object sender, RoutedEventArgs e)
         {
             contextGuest.PassStatus = CBStatus.SelectedItem as PassStatus;
+            contextGuest.DateStart = DPDateStart.SelectedDate.Value;
+            contextGuest.DateEnd = DPDateEnd.SelectedDate.Value;
             App.DB.SaveChanges();
             this.DialogResult = true;
         }

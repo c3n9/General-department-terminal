@@ -5,21 +5,21 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="df76efb0fe9049fea4961e05983c5c8b" Name="Diagram1">
-        <EntityTypeShape EntityType="GuardianModel.Department" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="GuardianModel.Employee" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="GuardianModel.Pass" Width="1.5" PointX="5.25" PointY="2.25" IsExpanded="true" />
-        <EntityTypeShape EntityType="GuardianModel.PassDocument" Width="1.5" PointX="7.5" PointY="4" IsExpanded="true" />
-        <EntityTypeShape EntityType="GuardianModel.PassLog" Width="1.5" PointX="7.5" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="GuardianModel.PassStatus" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
-        <EntityTypeShape EntityType="GuardianModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="6.875" IsExpanded="true" />
-        <EntityTypeShape EntityType="GuardianModel.User" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
-        <AssociationConnector Association="GuardianModel.FK_Employee_Department" ManuallyRouted="false" />
-        <AssociationConnector Association="GuardianModel.FK_Pass_Employee" ManuallyRouted="false" />
-        <AssociationConnector Association="GuardianModel.FK_PassLog_Employee" ManuallyRouted="false" />
-        <AssociationConnector Association="GuardianModel.FK_Pass_PassStatus" ManuallyRouted="false" />
-        <AssociationConnector Association="GuardianModel.FK_Pass_User" ManuallyRouted="false" />
-        <AssociationConnector Association="GuardianModel.FK_PassDocument_Pass" ManuallyRouted="false" />
-        <AssociationConnector Association="GuardianModel.FK_PassLog_Pass" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="GuardianModel.Department" Width="1.5" PointX="0.75" PointY="4.125" />
+        <EntityTypeShape EntityType="GuardianModel.Employee" Width="1.5" PointX="3" PointY="3.75" />
+        <EntityTypeShape EntityType="GuardianModel.Pass" Width="1.5" PointX="5.25" PointY="2.25" />
+        <EntityTypeShape EntityType="GuardianModel.PassDocument" Width="1.5" PointX="7.5" PointY="7.125" />
+        <EntityTypeShape EntityType="GuardianModel.PassLog" Width="1.5" PointX="7.5" PointY="3.75" />
+        <EntityTypeShape EntityType="GuardianModel.PassStatus" Width="1.5" PointX="3" PointY="7.5" />
+        <EntityTypeShape EntityType="GuardianModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="9.875" />
+        <EntityTypeShape EntityType="GuardianModel.User" Width="1.5" PointX="3" PointY="0.75" />
+        <AssociationConnector Association="GuardianModel.FK_Employee_Department" />
+        <AssociationConnector Association="GuardianModel.FK_Pass_Employee" />
+        <AssociationConnector Association="GuardianModel.FK_PassLog_Employee" />
+        <AssociationConnector Association="GuardianModel.FK_Pass_PassStatus" />
+        <AssociationConnector Association="GuardianModel.FK_Pass_User" />
+        <AssociationConnector Association="GuardianModel.FK_PassDocument_Pass" />
+        <AssociationConnector Association="GuardianModel.FK_PassLog_Pass" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

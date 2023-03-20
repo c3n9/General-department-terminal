@@ -80,18 +80,5 @@ namespace GeneralDepartmentTerminal.Pages
             }
             new EditStatusWindow(selectedGuest).ShowDialog();
         }
-
-        //private void CBStatus_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        //{
-        //    var guest = DGGuests.SelectedItem as Pass;
-        //    if (guest == null)
-        //    {
-        //        MessageBox.Show("Выберите гостя для изменения статуса");
-        //        return;
-        //    }
-        //    guest.PassStatus = CBStatus.SelectedItem as PassStatus;
-        //    App.DB.SaveChanges();
-        //    Refresh();
-        //}
     }
 }

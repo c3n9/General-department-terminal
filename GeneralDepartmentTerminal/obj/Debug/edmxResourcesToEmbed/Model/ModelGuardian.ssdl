@@ -81,6 +81,7 @@
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="Login" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="BlackList" Type="bit" />
   </EntityType>
   <Association Name="FK_Employee_Department">
     <End Role="Department" Type="Self.Department" Multiplicity="1" />

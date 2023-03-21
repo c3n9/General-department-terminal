@@ -7,11 +7,7 @@
         mc:Ignorable="d"
         Title="EditStatusWindow" MinHeight="750" MinWidth="800">
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="9*"/>
-            <ColumnDefinition Width="151*"/>
-        </Grid.ColumnDefinitions>
-        <StackPanel Grid.ColumnSpan="2">
+        <StackPanel>
             <TextBlock Text="Фамилия"/>
             <TextBlock Text="{Binding Surname}"/>
             <TextBlock Text="Имя"/>
